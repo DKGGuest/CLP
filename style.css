@@ -770,6 +770,7 @@ nav {
 
 .cta-button {
   display: inline-block;
+  margin: 40px 0;
   padding: 18px 36px;
   background: linear-gradient(135deg, #3b82f6, #8b5cf6);
   color: white;
